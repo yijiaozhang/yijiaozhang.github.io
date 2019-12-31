@@ -3,15 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/publication/phys-rev-lett-123-138101/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kai-cheng-yang/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/petter-holme/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yi-jiao-zhang/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhi-xi-wu/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -20,14 +62,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Yi-Jiao Zhang</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Zhi-Xi Wu | Yi-Jiao Zhang</title>
+    <link>/authors/zhi-xi-wu/</link>
+      <atom:link href="/authors/zhi-xi-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi-Xi Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Zhi-Xi Wu</title>
+      <link>/authors/zhi-xi-wu/</link>
     </image>
     
     <item>
