@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Filippo Radicchi</title>
       <link>/authors/filippo-radicchi/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/authors/filippo-radicchi/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Kai-Cheng Yang</title>
       <link>/authors/kai-cheng-yang/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kai-cheng-yang/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Yi-Jiao Zhang</title>
       <link>/authors/yi-jiao-zhang/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/authors/yi-jiao-zhang/</guid>
       <description></description>
     </item>
