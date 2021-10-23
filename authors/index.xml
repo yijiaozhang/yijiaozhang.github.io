@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Filippo Radicchi</title>
       <link>/authors/filippo-radicchi/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/filippo-radicchi/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Kai-Cheng Yang</title>
       <link>/authors/kai-cheng-yang/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kai-cheng-yang/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Yi-Jiao Zhang</title>
       <link>/authors/yi-jiao-zhang/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/yi-jiao-zhang/</guid>
       <description></description>
     </item>
@@ -57,7 +57,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Ph.D. student in the Institute of Computational Physics and Complex Systems at Lanzhou University. My Ph.D adviser is &lt;a href=&#34;https://publons.com/researcher/1695198/zhi-xi-wu/&#34;&gt;Zhi-Xi Wu&lt;/a&gt;. I am also a visiting scholar hosted by &lt;a href=&#34;http://homes.sice.indiana.edu/filiradi/&#34;&gt;Filippo Radicchi&lt;/a&gt; in the School of Informatics, Computing, and Engineering at Indiana University Bloomington.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Ph.D. student in the Institute of Computational Physics and Complex Systems at Lanzhou University. My Ph.D adviser is &lt;a href=&#34;https://publons.com/researcher/1695198/zhi-xi-wu/&#34;&gt;Zhi-Xi Wu&lt;/a&gt;. From Sept. 2019 to Sept. 2021, I was a visiting scholar hosted by &lt;a href=&#34;http://homes.sice.indiana.edu/filiradi/&#34;&gt;Filippo Radicchi&lt;/a&gt; in the School of Informatics, Computing, and Engineering at Indiana University Bloomington.&lt;/p&gt;
 </description>
     </item>
     
