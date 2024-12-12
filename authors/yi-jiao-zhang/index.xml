@@ -5,12 +5,20 @@
     <link>/authors/yi-jiao-zhang/</link>
       <atom:link href="/authors/yi-jiao-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi-Jiao Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yi-Jiao Zhang</title>
       <link>/authors/yi-jiao-zhang/</link>
     </image>
+    
+    <item>
+      <title>Reconstructing the evolution history of networked complex systems</title>
+      <link>/publication/s41467-024-47248-x/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/s41467-024-47248-x/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Systematic comparison of graph embedding methods in practical tasks</title>

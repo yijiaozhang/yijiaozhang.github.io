@@ -5,12 +5,84 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Cong Xu</title>
+      <link>/authors/cong-xu/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/cong-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiachen Sun</title>
+      <link>/authors/jiachen-sun/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jiachen-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiarong Xie</title>
+      <link>/authors/jiarong-xie/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jiarong-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaze Li</title>
+      <link>/authors/jiaze-li/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/jiaze-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junya Wang</title>
+      <link>/authors/junya-wang/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/junya-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ling Feng</title>
+      <link>/authors/ling-feng/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/ling-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianshou Zhou</title>
+      <link>/authors/tianshou-zhou/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/tianshou-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanqing Hu</title>
+      <link>/authors/yanqing-hu/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yanqing-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-Jiao Zhang</title>
+      <link>/authors/yi-jiao-zhang/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-jiao-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Filippo Radicchi</title>
@@ -25,14 +97,6 @@
       <link>/authors/kai-cheng-yang/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kai-cheng-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi-Jiao Zhang</title>
-      <link>/authors/yi-jiao-zhang/</link>
-      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/yi-jiao-zhang/</guid>
       <description></description>
     </item>
     
